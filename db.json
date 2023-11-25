@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "Filipe ",
+      "name": "Filipe ",
+      "email": "felipequintanilha3@gmail.com",
+      "password": "Filipe@1"
+    },
+    {
+      "id": "Sidney",
+      "name": "Sidney",
+      "email": "Sidney@email.com",
+      "password": "Sidney@1"
+    },
+    {
+      "id": "Vitor",
+      "name": "Vitor",
+      "email": "V@gmail.com",
+      "password": "Vitor@1"
+    },
+    {
+      "id": "Daniel ",
+      "name": "Daniel ",
+      "email": "daniel@gmail.com",
+      "password": "Daniel@1"
+    },
+    {
+      "id": "Teste",
+      "name": "Teste",
+      "email": "teste@email.com",
+      "password": "Teste@1"
+    }
+  ]
+}
